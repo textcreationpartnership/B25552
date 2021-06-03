@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eubulus. Or A free and loyal discourse To His Sacred Majesty, by one of His most faithfull subiects.</title>
+            <author>G. L.</author>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25552</idno><idno type="EEBO-CITATION">99831476</idno>
+  <idno type="VID">207297</idno>
+  <idno type="EEBO-PROQUEST">2240928195</idno>
+  
+            <idno type="STC">Wing L19</idno>
+            <idno type="PROQUEST">99831476</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831476e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207297)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eubulus. Or A free and loyal discourse To His Sacred Majesty, by one of His most faithfull subiects.</title>
+                  <author>G. L.</author>
+               </titleStmt>
+               <extent>[4], 59 [i.e. 30], [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Anno M. DC. LX. [1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Page 30 misnumbered 59. Text is mispaginated throughout.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Edinburgh University Library, Edinburgh.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207297:1"/>
+            <pb facs="tcp:207297:1"/>
+            <p>EUBULUS. OR A Free and Loyal DISCOURSE. TO His Sacred MAJESTY, BY One of His most faithfull SUBIECTS.</p>
+            <p>Anno M.DC.LX.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:207297:2"/>
+            <pb facs="tcp:207297:2"/>
+            <head>To HIS SACRED MAJESTY.</head>
+            <l>HEavens darling, Charls, great Britains joy,</l>
+            <l>The neighbour world's surprise and wonder,</l>
+            <l>VVhose patience hath all wrongs brought under,</l>
+            <l>And prayers could all plots destroy;</l>
+            <l>VVhose Kingdomes long have been the Stage</l>
+            <l>Of madness, and rebellious rage;</l>
+            <l>Deign, with a lowly look, to read</l>
+            <l>His zeal who from the Baltick Isles</l>
+            <l>(Opprest with neighbour force the whiles)</l>
+            <l>To Heaven did, praying for Thee, plead.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:207297:3"/>
+            <lg n="1">
+               <pb facs="tcp:207297:3"/>
+               <head>1</head>
+               <l>
+                  <seg rend="decorInit">H</seg>E that from all Eternity,</l>
+               <l>Was ever in himself most blest,</l>
+               <l>Great, glorious, mightie, wise and just,</l>
+               <l>And shall the same for ever be:</l>
+               <l>He that to Time a day did lend,</l>
+               <l>And set the Term when it shall end;</l>
+               <l>That shall the world in ashes bury:</l>
+               <l>He that the happy Angels made</l>
+               <l>To sing his praise, and laid the pride</l>
+               <l>Of Divels in Dungeons in his fury.</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>He that could with a word create,</l>
+               <l>This All so glorious in our sight,</l>
+               <l>That out of darkness could draw light,</l>
+               <l>And to the Sea her limits set:</l>
+               <l>He, whose (even meanest) works are wonders,</l>
+               <l>Whose look is lightning, words are thunders,</l>
+               <l>Who Heaven doth roul, Earth's center shakes:</l>
+               <l>He that of dust frail man did frame,</l>
+               <l>To bear his Image, bless his Name,</l>
+               <l>And pleasure in his Creatures takes.</l>
+            </lg>
+            <lg n="3">
+               <pb facs="tcp:207297:4"/>
+               <head>3</head>
+               <l>He that the Seasons doth dispense,</l>
+               <l>Makes fertile fields and barren wombs,</l>
+               <l>That shall rouse Tyrants from their Tombs,</l>
+               <l>With flames their faults to recompense:</l>
+               <l>He by whom Kings are more then men,</l>
+               <l>That casts down and sets up again:</l>
+               <l>He that of Sheep-hooks Scepters makes:</l>
+               <l>He that for Prince and Peoples sins,</l>
+               <l>With judgments at his Church begins,</l>
+               <l>His Children never quite forsakes.</l>
+            </lg>
+            <lg n="4">
+               <head>4</head>
+               <l>He that is only wise and just,</l>
+               <l>Who laughs all human wit to scorn:</l>
+               <l>He that provides for the unborn,</l>
+               <l>And lays proud greatness in low dust;</l>
+               <l>To punish sin and peoples pride,</l>
+               <l>Whose fullness casts his fear aside;</l>
+               <l>To follow sense (as we have done,)</l>
+               <l>When wickedness is at the height,</l>
+               <l>His heavy hand full sore doth light,</l>
+               <l>On those that such strange courses run.</l>
+            </lg>
+            <lg n="5">
+               <pb facs="tcp:207297:4"/>
+               <head>5</head>
+               <l>Great Charls thy patience proves this true,</l>
+               <l>How States with changes tossed are,</l>
+               <l>And Crowns are crush'd in civil War:</l>
+               <l>When Treason dare her deeds avow:</l>
+               <l>When bold Rebellion breaketh out</l>
+               <l>In armed bands, and madly stout,</l>
+               <l>Shakes off all fear of God and Man:</l>
+               <l>When people dare a right pretend</l>
+               <l>To curb their King, their crimes defend,</l>
+               <l>At these thy sufferings first began.</l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>A heavy Tempest of Heavens wrath,</l>
+               <l>Now long hath toss'd thy troubled state,</l>
+               <l>First setting Kingdoms at debate,</l>
+               <l>VVhere force doom'd innocence to death,</l>
+               <l>VVhile might made right, and loyalty</l>
+               <l>VVas treason in the high'st degree;</l>
+               <l>VVhile to be honest was a crime;</l>
+               <l>VVhile Schismaticks and Sectaries,</l>
+               <l>More knaves then fools, preach'd tales and lies</l>
+               <l>To gull the simple serve the time.</l>
+            </lg>
+            <lg n="7">
+               <pb facs="tcp:207297:5"/>
+               <head>7</head>
+               <l>When proud sedition gave the Law,</l>
+               <l>And banish'd justice left the Land;</l>
+               <l>When force had got the upperhand,</l>
+               <l>And tyranny the sword did draw</l>
+               <l>To kill the Just, and made a prey</l>
+               <l>Of all that did not like their way;</l>
+               <l>When Temples were to stables turn'd;</l>
+               <l>When to serve God, and love the King,</l>
+               <l>Did undelayed ruine bring;</l>
+               <l>When Rogues did rule and good men mourn'd.</l>
+            </lg>
+            <lg n="8">
+               <head>8</head>
+               <l>Whil'st mutin'd members did conspire</l>
+               <l>Against the head, and day was night;</l>
+               <l>Whil'st right was wrong, and black was white,</l>
+               <l>Hell blowing up seditions fire;</l>
+               <l>Whil'st God's pure worship was defac'd,</l>
+               <l>His Messengers depos'd, disgrac'd,</l>
+               <l>Or martyr'd for the truth they preach'd;</l>
+               <l>While Racks and Gibbets did proclaim</l>
+               <l>The danger to invoke his name,</l>
+               <l>And heresie the height had reach'd.</l>
+            </lg>
+            <lg n="9">
+               <pb facs="tcp:207297:5"/>
+               <head>9</head>
+               <l>Where poor seduced souls were led,</l>
+               <l>In by-paths to Despair and Death,</l>
+               <l>By the infected stinking breath</l>
+               <l>Of Priests, who them with poison fed:</l>
+               <l>When Moses Chair, was made the Stool</l>
+               <l>Of wickedness; the Church, a School</l>
+               <l>Of Schism to check the Lord's anointed:</l>
+               <l>When Sacraments were banish'd quite,</l>
+               <l>And every Coblar claim'd a right</l>
+               <l>To preach the Gospel, as appointed.</l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>When private interest and pride,</l>
+               <l>Cloak'd with false zeal, by furies driven,</l>
+               <l>Pretended still the right of Heaven,</l>
+               <l>Wrong'd in their cause, with them would side.</l>
+               <l>When (O what wickedness!) a few,</l>
+               <l>The Levites tongues and people drew,</l>
+               <l>To blame thy Sire, and bind his hands,</l>
+               <l>And in a blessed Reformation,</l>
+               <l>Stirr'd up the strength of either Nation,</l>
+               <l>To violate His just Commands.</l>
+            </lg>
+            <lg n="11">
+               <pb facs="tcp:207297:6"/>
+               <head>11</head>
+               <l>When servants (bought) their trust betraid,</l>
+               <l>And Judas like their Master sold;</l>
+               <l>When insolence grew madly bold,</l>
+               <l>And poor plain-dealing lurk'd afraid;</l>
+               <l>When wealth was sought by hook and crook;</l>
+               <l>When Rascals from the rich men took</l>
+               <l>Their well got substance, with pretence,</l>
+               <l>They were Delinquents, Royalists,</l>
+               <l>And underhand did Charls assist,</l>
+               <l>Whil'st no such zeal was their offence.</l>
+            </lg>
+            <lg n="12">
+               <head>12</head>
+               <l>When Jack and Tom, now Cor'nels made,</l>
+               <l>Leaving the Needle and the Aul,</l>
+               <l>Had learn'd to look big in the Hall,</l>
+               <l>When they were with Commissions clad</l>
+               <l>To press the Peers, the people plague,</l>
+               <l>Whose patience still must bear and beg;</l>
+               <l>As burthens daily did increase,</l>
+               <l>Whil'st liberty was still pretended,</l>
+               <l>But slavery was the thing intended,</l>
+               <l>And Fines refin'd did never cease.</l>
+            </lg>
+            <lg n="13">
+               <pb facs="tcp:207297:6"/>
+               <head>13</head>
+               <l>When those familiar spirits, Spies,</l>
+               <l>Did haunt each honest man and house,</l>
+               <l>And first in free discourse brake loose</l>
+               <l>T'accuse the times and then tell lies;</l>
+               <l>When friends and neighbours durst not meet</l>
+               <l>Without suspicion in full street,</l>
+               <l>And conversation was debarr'd;</l>
+               <l>When looks were censured, words were wrest,</l>
+               <l>Thoughts judg'd, where nothing was exprest,</l>
+               <l>What Inquisition was so hard?</l>
+            </lg>
+            <lg n="14">
+               <head>14</head>
+               <l>Old Fable tells a pretty Tale,</l>
+               <l>The Danes about to chuse a King,</l>
+               <l>When interest did great disputes bring,</l>
+               <l>Most voices must at last prevail,</l>
+               <l>The first thing that came in the room,</l>
+               <l>Should be invested in the Crown,</l>
+               <l>Be what it would (Chance sent a Dog,)</l>
+               <l>Him they receiv'd; and England so</l>
+               <l>Cri'd up a Cur, who did o'rthrow</l>
+               <l>All Rights and ruled like a Rogue.</l>
+            </lg>
+            <lg n="15">
+               <pb facs="tcp:207297:7"/>
+               <head>15</head>
+               <l>But 't was the goodness of our God,</l>
+               <l>That did thy Sacred Person save,</l>
+               <l>When Rebels swords had digg'd thy Grave,</l>
+               <l>And made thee seek thy home abroad;</l>
+               <l>Till that unlucky Viprous brood,</l>
+               <l>That had imbrew'd the Lands in blood,</l>
+               <l>Did fall a biting one another;</l>
+               <l>And he that did thy life preserve</l>
+               <l>For better daies, doth yet reserve</l>
+               <l>Blessings for thee, these wrongs to smother.</l>
+            </lg>
+            <lg n="16">
+               <head>16</head>
+               <l>He that in all these Civil broils,</l>
+               <l>From Rebels fury rescu'd thee,</l>
+               <l>Still to preserve a Royalty,</l>
+               <l>Though thy just cause had many foils;</l>
+               <l>Would thereby teach thee not to trust</l>
+               <l>To th' arm of flesh, which is but dust;</l>
+               <l>And men whose hands and hearts do fail,</l>
+               <l>When fear or interest, wife and friends,</l>
+               <l>Preach they should have no other ends,</l>
+               <l>But hold the party doth prevail.</l>
+            </lg>
+            <lg n="17">
+               <pb facs="tcp:207297:7"/>
+               <head>17</head>
+               <l>That Storm (thanks be to God) is past,</l>
+               <l>The Clouds are cleer'd, the Day doth smile,</l>
+               <l>Though we have been oppress'd a while,</l>
+               <l>Our prayers have prevail'd at last;</l>
+               <l>And though our sins deserved more,</l>
+               <l>God's Mercy infinite in store,</l>
+               <l>Hath whipp'd us with a Fathers hand;</l>
+               <l>VVe were a wicked generation,</l>
+               <l>Deserving utter extirpation,</l>
+               <l>And to be spew'd out of the Land.</l>
+            </lg>
+            <lg n="18">
+               <head>18</head>
+               <l>That Hydra which thy Lands did wast,</l>
+               <l>Lies choaked in his stinking gore;</l>
+               <l>Thy people whom his fury tore,</l>
+               <l>Now sing to see their sorrows past;</l>
+               <l>Thy sight to them new life doth lend,</l>
+               <l>Their prayers do thy steps attend;</l>
+               <l>Heavens hear their wishes all for thee,</l>
+               <l>Their loyal hearts just hopes do raise</l>
+               <l>Of happy Halcyonian daies,</l>
+               <l>In thy bless'd Reign and Life to see.</l>
+            </lg>
+            <lg n="19">
+               <pb facs="tcp:207297:8"/>
+               <head>19</head>
+               <l>The Spirit of deceit and lies,</l>
+               <l>Which cunning knaves did long profess,</l>
+               <l>The weaker vulgar to possess,</l>
+               <l>And warranted their villanies;</l>
+               <l>Is now departed from those men,</l>
+               <l>That durst God's Oracles prophane,</l>
+               <l>To make him Complice of their crimes;</l>
+               <l>Though his long patience let them preach</l>
+               <l>Schism, Nonsence, and Allegiance breach,</l>
+               <l>Yet did his soul abhor the times.</l>
+            </lg>
+            <lg n="20">
+               <head>20</head>
+               <l>While Piety pretended most</l>
+               <l>The Clergies greatness to reform,</l>
+               <l>Which rais'd the sad and wofull storm,</l>
+               <l>That so much Christian blood hath cost,</l>
+               <l>Power was the point of their ambition,</l>
+               <l>Who aiming at a high condition,</l>
+               <l>Involv'd the Church and State in bloud;</l>
+               <l>And that they might their ends attain,</l>
+               <l>Did Heaven and holy things prophane,</l>
+               <l>Yet ne'r could reach't do what they would.</l>
+            </lg>
+            <lg n="21">
+               <pb facs="tcp:207297:8"/>
+               <head>21</head>
+               <l>Now those black birds of night are fled,</l>
+               <l>The stinking Harpies, whose foul claws</l>
+               <l>Did stain God's Altars, tore thy Laws,</l>
+               <l>Lurk in dark holes of light afraid:</l>
+               <l>Those black mouth'd Curs that barked late,</l>
+               <l>The Mastive gards of monstrous State,</l>
+               <l>The Lions look hath frighted so,</l>
+               <l>They see no safety here for them,</l>
+               <l>Their consciences their deeds condemn,</l>
+               <l>And they to Hell will headlong go.</l>
+            </lg>
+            <lg n="22">
+               <head>22</head>
+               <l>The Fogs are clear'd that choaked late</l>
+               <l>The soundest Subjects wholsom breath,</l>
+               <l>Whose honest bosoms drew in death</l>
+               <l>From poisned air the steem of State,</l>
+               <l>Whil'st all thy Courts corrupted were,</l>
+               <l>And Justice Seat was made a snare</l>
+               <l>T' intrap the harmless innocent,</l>
+               <l>Now in thy long wish'd happy Reign</l>
+               <l>Astrëa shall return again,</l>
+               <l>And Honesty from banishment.</l>
+            </lg>
+            <lg n="23">
+               <pb facs="tcp:207297:9"/>
+               <head>23</head>
+               <l>The judgments of our God are just,</l>
+               <l>And we had merited far more,</l>
+               <l>But 't was his mercy that forbore</l>
+               <l>To plague our Riot, Pride, and Lust.</l>
+               <l>Both Prince and People, Church and State,</l>
+               <l>Had forfeit in offences great,</l>
+               <l>Lull'd in a Lethargy of sin.</l>
+               <l>All what we dream'd or did desire,</l>
+               <l>Did but add fuell to that fire</l>
+               <l>VVe rais'd, to fall our selves therein.</l>
+            </lg>
+            <lg n="24">
+               <head>24</head>
+               <l>And since his mercy did forbear,</l>
+               <l>The measure of our faults to pay;</l>
+               <l>The dawn of thine approaching day,</l>
+               <l>Hath struck these Baals Priests with fear,</l>
+               <l>No counterfeit Enthousiasts,</l>
+               <l>Whose gifts but with their yawning lasts,</l>
+               <l>Have dar'd to whean or sigh among us;</l>
+               <l>Their words drawn out with feigned grones</l>
+               <l>And tears, to take the simple ones,</l>
+               <l>Have no more charms nor power to wrong us.</l>
+            </lg>
+            <lg n="25">
+               <pb facs="tcp:207297:9"/>
+               <head>25</head>
+               <l>Rise then, fair Sun, from that dark Cloud,</l>
+               <l>VVhich did eclipse thy growing light,</l>
+               <l>And shine in vertues glory bright,</l>
+               <l>Great Charls, our hope of whom we're proud,</l>
+               <l>Let Justice led by Clemency,</l>
+               <l>Thy Cabin Counsellers still be,</l>
+               <l>To cherish vertue, punish vice;</l>
+               <l>So shall thy greatness gain the name</l>
+               <l>Of Just, and spread thy noble fame,</l>
+               <l>As far as Suns do set and rise.</l>
+            </lg>
+            <lg n="26">
+               <head>26</head>
+               <l>Now Palms thy Palaces shall deck,</l>
+               <l>And Olives bind thy sacred brows;</l>
+               <l>The furthest Clims that Titan knows,</l>
+               <l>To thee shall Suppliants direct,</l>
+               <l>And beg thy Subjects they may be,</l>
+               <l>Their faith ingage, take Laws from thee,</l>
+               <l>And in their Fanes thy statues raise:</l>
+               <l>VVhile Britain bless'd in thine abode,</l>
+               <l>Shall laugh at all the VVorld abroad,</l>
+               <l>To see at home new golden daies.</l>
+            </lg>
+            <lg n="27">
+               <pb facs="tcp:207297:10"/>
+               <head>27</head>
+               <l>To thee God's Priests shall prostrate come,</l>
+               <l>Who late in silent sighs did mourn,</l>
+               <l>T'injoy their prayers glad return;</l>
+               <l>Since Heavens have haply brought thee home,</l>
+               <l>The altars of true hearts now smoke</l>
+               <l>With thanks and praise, while they invoke</l>
+               <l>His holy name to bless thy Reign;</l>
+               <l>And now their wishes crave no more,</l>
+               <l>But that the God whom all adore,</l>
+               <l>May long thy lawfull power maintain.</l>
+            </lg>
+            <lg n="28">
+               <head>28</head>
+               <l>Now peace and plenty in our land,</l>
+               <l>Shall make the furrows flow with gold,</l>
+               <l>The hills and dales our flocks shall fold;</l>
+               <l>Our cloaths in heaps laid on the strand,</l>
+               <l>Shall fraught whole Fleets to forraign shores,</l>
+               <l>Where all the World our woll adores,</l>
+               <l>And for them change their richest ware;</l>
+               <l>Our Ships the Oceans back shal plough</l>
+               <l>Till Neptune groan, to make him know</l>
+               <l>Thou art the only Soveraign there.</l>
+            </lg>
+            <lg n="29">
+               <pb facs="tcp:207297:10"/>
+               <head>29</head>
+               <l>The Worlds fast and vast continent,</l>
+               <l>Divided in strange Colonies,</l>
+               <l>In Empires, States and Monarchies,</l>
+               <l>With jars and factions torn and rent,</l>
+               <l>Shall fear thy force and mighty power,</l>
+               <l>Not knowing whom thou'l first devour,</l>
+               <l>If once thine anger kindled be;</l>
+               <l>And to prevent their ruine sure,</l>
+               <l>Shall strive who may be first secure,</l>
+               <l>By begging of thine amity.</l>
+            </lg>
+            <lg n="30">
+               <head>30</head>
+               <l>When neighbour Kings fall at debate,</l>
+               <l>In Battels rang'd their cause to plead;</l>
+               <l>Before the fields see any dead,</l>
+               <l>Thy wisedom shall their rage abate,</l>
+               <l>And reconcile their rancune so,</l>
+               <l>That both shall to thy verdict ow</l>
+               <l>Their Crowns, and what they do possess;</l>
+               <l>The Heathen hearing but thy name,</l>
+               <l>Shall on their Altars grave the same,</l>
+               <l>And worship thee whom Heavens bless.</l>
+            </lg>
+            <lg n="31">
+               <pb facs="tcp:207297:11"/>
+               <head>31</head>
+               <l>Now shall thy VVorld-divided Isle</l>
+               <l>Boast of more fair and happy daies,</l>
+               <l>Then those where Titan's hotter rays</l>
+               <l>Of Spices smel, on Pearls do smile:</l>
+               <l>Thy gracious influence, shall give</l>
+               <l>Religion vigour to revive,</l>
+               <l>And raise up honour from the dust:</l>
+               <l>By thee our Rights shall be maintain'd,</l>
+               <l>Our Goods restor'd which force detain'd,</l>
+               <l>And Power shall be no more unjust.</l>
+            </lg>
+            <lg n="32">
+               <head>32</head>
+               <l>Religion rent in rags, and torn</l>
+               <l>By Schisms, fanatick fools and knaves,</l>
+               <l>VVho sought to keep the people slaves,</l>
+               <l>And made God's service Gospels scorn;</l>
+               <l>Now begging thy protection comes,</l>
+               <l>VVhen Bels do ring in stead of Drums;</l>
+               <l>And Prayers incense needs no matches,</l>
+               <l>Nor pikes, to push her forward zeal,</l>
+               <l>For she to Heaven did still appeal,</l>
+               <l>In midst of all her gards and watches.</l>
+            </lg>
+            <lg n="33">
+               <pb facs="tcp:207297:11"/>
+               <head>33</head>
+               <l>The poor oppressed Innocent,</l>
+               <l>VVho for their Loyalty did smart,</l>
+               <l>And must with lands and livings part</l>
+               <l>To save their lives in banishment;</l>
+               <l>VVhose goods were seased as they fled,</l>
+               <l>Their wives and children beggars made;</l>
+               <l>Themselves for hunger starv'd abroad,</l>
+               <l>Now by thy Justice hope to be,</l>
+               <l>Restor'd to lands and liberty,</l>
+               <l>And praying for thee, praise our God.</l>
+            </lg>
+            <lg n="34">
+               <head>34</head>
+               <l>Heavens now have chang'd the times; and men</l>
+               <l>That change with times, have chang'd their notes;</l>
+               <l>Those that spew'd gall from pois'ned throats,</l>
+               <l>Now sing thy praises loud again.</l>
+               <l>Can greater glory gild a Prince?</l>
+               <l>Or greater shame his foes convince;</l>
+               <l>Then when those mouths that curs'd him late,</l>
+               <l>Now pray for his prosperity,</l>
+               <l>And give themselves, themselves the ly?</l>
+               <l>No Conquest ever was so great.</l>
+            </lg>
+            <lg n="35">
+               <pb facs="tcp:207297:12"/>
+               <head>35</head>
+               <l>Great Charls, who from the glorious Race</l>
+               <l>Of Gathel draws thy long descent,</l>
+               <l>Which hundred and ten Kings hath lent</l>
+               <l>To Fergus Throne thy stem to grace;</l>
+               <l>Fear thou that God by whom Kings reign,</l>
+               <l>Thy Subjects shall fear thee again;</l>
+               <l>And he that did the Heavens frame,</l>
+               <l>Though he hath curb'd thine Ancestours,</l>
+               <l>And us, for their great sins and ours,</l>
+               <l>On thine shall fix the Diadem.</l>
+            </lg>
+            <lg n="36">
+               <head>36</head>
+               <l>And as Heavens favour hath more free</l>
+               <l>Shin'd on thy Throne then other States,</l>
+               <l>Which forraign force, homebred debates,</l>
+               <l>Have chang'd from what they wont to be;</l>
+               <l>Since Scepters have transferred been</l>
+               <l>To strangers, as all lands have seen,</l>
+               <l>And Royal Races rooted out;</l>
+               <l>Adore that power by whom Kings reign,</l>
+               <l>Fear him, his worship pure maintain;</l>
+               <l>So shall thy life be blest, ne'r doubt.</l>
+            </lg>
+            <lg n="37">
+               <pb facs="tcp:207297:12"/>
+               <head>37</head>
+               <l>Let now thy care and study be,</l>
+               <l>The Church to purge of Sects and Schism,</l>
+               <l>The Court of Vice and Atheism;</l>
+               <l>And Justice Seats of Bribery;</l>
+               <l>Let vagabonds and idle men,</l>
+               <l>Betake them to their Trades again,</l>
+               <l>And by their honest labours live;</l>
+               <l>VVho will not work, ought not to eat,</l>
+               <l>Drones must not feed on others sweat,</l>
+               <l>The Law must them their measure give.</l>
+            </lg>
+            <lg n="38">
+               <head>38</head>
+               <l>Kings are from God for blessings given,</l>
+               <l>Not only people to command,</l>
+               <l>But to be fathers to the Land,</l>
+               <l>By love to make all things go even;</l>
+               <l>And when their Children do transgress</l>
+               <l>In misdemeanours, more or less,</l>
+               <l>VVith wisedom weighing the offence,</l>
+               <l>To measure out the punishment,</l>
+               <l>Or pardon, when they do repent,</l>
+               <l>Their power such favour may dispense.</l>
+            </lg>
+            <lg n="39">
+               <pb facs="tcp:207297:13"/>
+               <head>39</head>
+               <l>Kings are called Gods on earth, and why?</l>
+               <l>Not that their bodies more then men</l>
+               <l>Of heavenly substance point out them:</l>
+               <l>No, they are mortal, born to die.</l>
+               <l>'Tis that great Justice that doths hine</l>
+               <l>In him, whom God by choice divine,</l>
+               <l>Hath marked out above the rest</l>
+               <l>To sway the Scepter, draw the sword,</l>
+               <l>God's image fair, the Soveraign Lord,</l>
+               <l>VVhom Might and Majesty invest.</l>
+            </lg>
+            <lg n="40">
+               <head>40</head>
+               <l>'Tis not a Crown that makes a King,</l>
+               <l>That but decores his sacred head,</l>
+               <l>A mark of Soveraignty and dread,</l>
+               <l>'Tis love that doth obedience bring;</l>
+               <l>The Scepter doth but shew his power,</l>
+               <l>His Justice doth confirm it more,</l>
+               <l>And keeps his Subjects in just aw;</l>
+               <l>By which his people plainly see</l>
+               <l>That God hath set him up, to be</l>
+               <l>His Lievtenant, the speaking Law.</l>
+            </lg>
+            <lg n="41">
+               <pb facs="tcp:207297:13"/>
+               <head>41</head>
+               <l>The fear that doth from love proceed,</l>
+               <l>When Mercy doth with Justice reign,</l>
+               <l>And Kings their Subjects rights maintain,</l>
+               <l>A reverence in their hearts doth breed;</l>
+               <l>And is a guard more strong by far,</l>
+               <l>Then armed Bands of Men of War,</l>
+               <l>Which are but marks of Majesty;</l>
+               <l>For love alone secureth States,</l>
+               <l>And Kings may sleep with open gates,</l>
+               <l>Whose Subjects hearts their Watch-men be.</l>
+            </lg>
+            <lg n="42">
+               <head>42</head>
+               <l>As God hath set the King on high,</l>
+               <l>And put the Helm into his hand</l>
+               <l>To steer the State, and stedfast stand</l>
+               <l>In storms where unseen dangers ly,</l>
+               <l>That he may keep a constant course,</l>
+               <l>Wisedom as needfull is as force,</l>
+               <l>And knowledge given him from above,</l>
+               <l>If he do alwaies meditate</l>
+               <l>That study of the Sea of State,</l>
+               <l>His voyage prosperous shall prove.</l>
+            </lg>
+            <lg n="43">
+               <pb facs="tcp:207297:14"/>
+               <head>43</head>
+               <l>As knowledge doth a King become,</l>
+               <l>And maketh him most like his Maker;</l>
+               <l>Yet to make him of Heaven pertaker,</l>
+               <l>'Tis zeal that must accomplish him.</l>
+               <l>True piety a Prince commends,</l>
+               <l>A fiery squadron him defends,</l>
+               <l>That makes his God his help and hope,</l>
+               <l>No fierce nor fraud his conscience fears,</l>
+               <l>His countenance a calm still bears,</l>
+               <l>Whose ears to great and small are ope.</l>
+            </lg>
+            <lg n="44">
+               <head>44</head>
+               <l>As lights on high, looks upward draw,</l>
+               <l>So Princes lives are patterns made,</l>
+               <l>To those that sit in lower shade,</l>
+               <l>Who take example for a law:</l>
+               <l>No Precept hath such power o'r men,</l>
+               <l>To follow Vertue's path, as when</l>
+               <l>They see their King that rout doth hold;</l>
+               <l>The Country imitates the Court</l>
+               <l>In fashions, faults, in life and sport,</l>
+               <l>And great mens scapes makes meaner bold.</l>
+            </lg>
+            <lg n="45">
+               <pb facs="tcp:207297:14"/>
+               <head>45</head>
+               <l>But that which most takes Subjects hearts,</l>
+               <l>Whose service doth expect reward,</l>
+               <l>Is when the King hath a regard</l>
+               <l>To loyalty and just deserts;</l>
+               <l>When by his bounty he excites,</l>
+               <l>The courage of aspiring sp'rites</l>
+               <l>To serve his person and the State;</l>
+               <l>His hand must not be shut, yet free</l>
+               <l>From lavish prodigality,</l>
+               <l>Which doth vast Treasures dissipate.</l>
+            </lg>
+            <lg n="46">
+               <head>46</head>
+               <l>Nor is that all, for men of merit,</l>
+               <l>His favour must advance them higher,</l>
+               <l>Valour new honours doth require,</l>
+               <l>And wisedom place t' imploy the spirit;</l>
+               <l>When these two Pillars do support</l>
+               <l>The Royal Throne, then 'tis a Fort,</l>
+               <l>A Cittadel of sure defence;</l>
+               <l>No forraign force, nor home-bred jars,</l>
+               <l>Can shake it in the storm of Wars;</l>
+               <l>Such Bulwa<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks beat all harm from thence.</l>
+            </lg>
+            <lg n="47">
+               <pb facs="tcp:207297:15"/>
+               <head>47</head>
+               <l>When vertue guards the Regal Throne,</l>
+               <l>And Justice holds the Ballance even,</l>
+               <l>When each one hath true measure given;</l>
+               <l>And persons are not look'd upon,</l>
+               <l>Where favour doth not free the great,</l>
+               <l>Nor power oppress the low estate,</l>
+               <l>When poor and rich are heard alike;</l>
+               <l>When the stern Judge that reads the Laws,</l>
+               <l>Sees not the party but the cause,</l>
+               <l>And freely doth by sentence strike.</l>
+            </lg>
+            <lg n="48">
+               <head>48</head>
+               <l>Sire, now that God hath given you power</l>
+               <l>To vindicate those injuries,</l>
+               <l>That Traitors, Rebels, Sectaries</l>
+               <l>Heap'd up, your people to devour:</l>
+               <l>Let your great mercy pardon all</l>
+               <l>Who prostrate at your feet do fall,</l>
+               <l>Or punish with deserved rods;</l>
+               <l>Some have been blinded, some were knaves,</l>
+               <l>Those Heaven unto your Justice leaves;</l>
+               <l>But clemency makes Kings like Gods▪</l>
+            </lg>
+            <lg n="49">
+               <pb facs="tcp:207297:15"/>
+               <head>49</head>
+               <l>To pardon is a Prince's glory,</l>
+               <l>VVhen crimes are capable of grace;</l>
+               <l>If wickedness do right outface,</l>
+               <l>Then Laws must strike, though he be sorry.</l>
+               <l>Our Saviour's mild example pray'd,</l>
+               <l>It might not to their charge be laid,</l>
+               <l>VVhose ignorance doom'd him to die;</l>
+               <l>Those that 'gainst thee have forfeit most,</l>
+               <l>Are in their own souls judgement lost,</l>
+               <l>And from thy mercy's reach will fly.</l>
+            </lg>
+            <lg n="50">
+               <head>50</head>
+               <l>Though in that Royal Race and Role,</l>
+               <l>Of thy most glorious Ancestours,</l>
+               <l>VVhose meekness moderate their powers,</l>
+               <l>And Clemency Fame doth extol;</l>
+               <l>The number doth exceed compare</l>
+               <l>Of any Kings that ever were:</l>
+               <l>Yet none doth match thy blessed Sire,</l>
+               <l>His grace and mercy was so great,</l>
+               <l>That as his soul all sin did hate,</l>
+               <l>No sinner's death he did desire.</l>
+            </lg>
+            <lg n="51">
+               <pb facs="tcp:207297:16"/>
+               <head>51</head>
+               <l>Thy life, great Charls, in thine exile,</l>
+               <l>Hath taught thee by experience,</l>
+               <l>Thy Royal favours to dispense;</l>
+               <l>On whom to frown, and where to smile,</l>
+               <l>To judge of merit, service prise,</l>
+               <l>Know men, and see with cleerer eys,</l>
+               <l>Then those that take all things on trust,</l>
+               <l>From others hearing and report,</l>
+               <l>Whose lies are oft rewarded for't,</l>
+               <l>And make the King do things unjust.</l>
+            </lg>
+            <lg n="52">
+               <head>52</head>
+               <l>From that foul poison that doth work</l>
+               <l>On Princes, more then private men,</l>
+               <l>And of all greatness is the bane,</l>
+               <l>Though in fair shew it slily lurk,</l>
+               <l>The Heavens preserve thy sacred ears,</l>
+               <l>From sycophants and flatterers,</l>
+               <l>Who seek to rise by others fall;</l>
+               <l>In choice of Favourites be wise,</l>
+               <l>(If you'l have any) vulgar eys</l>
+               <l>By them will scan your actions all.</l>
+            </lg>
+            <lg n="53">
+               <pb facs="tcp:207297:16"/>
+               <head>53</head>
+               <l>Since he who was your only trust,</l>
+               <l>Hath heard your prayers, and the vows</l>
+               <l>Of those whose honesty Heaven knows,</l>
+               <l>Whose wishes still for you were just;</l>
+               <l>Since naked hearts have call'd you home,</l>
+               <l>And Armies not as Ushers come</l>
+               <l>To strew your way with slaughtered bones:</l>
+               <l>Sire, thank that God that lov'd you so,</l>
+               <l>That he a smoother way did shew,</l>
+               <l>In shouts of joy to turn our grones.</l>
+            </lg>
+            <lg n="54">
+               <head>54</head>
+               <l>That shame and fear have influence</l>
+               <l>On men and times, none will deny,</l>
+               <l>Since these are Touch-stones that do try</l>
+               <l>The weak and worthy conscience:</l>
+               <l>Even in the height of our disorders,</l>
+               <l>When faith seem'd banish'd from our borders,</l>
+               <l>And but small hopes appear'd for thee,</l>
+               <l>Great Charls, thy matchless constancy,</l>
+               <l>Did find a fast integrity</l>
+               <l>In some that long'd thy face to see.</l>
+            </lg>
+            <lg n="55">
+               <pb facs="tcp:207297:17"/>
+               <head>55</head>
+               <l>Our prayers, hopes and all our wishes,</l>
+               <l>Heaven knows, did still reflect on thee,</l>
+               <l>As the most precious Legacy</l>
+               <l>He left (his people) whome time blesses:</l>
+               <l>Go on, great King, God shall thee guide,</l>
+               <l>His Providence that did provide</l>
+               <l>For thee, in deep of our despair,</l>
+               <l>Shall lead thee in that glorious way</l>
+               <l>Of Kings that his just power obey,</l>
+               <l>And all thy ruin'd Rights-repair.</l>
+            </lg>
+            <lg n="56">
+               <head>56</head>
+               <l>Thrice happy is that Land, that sees</l>
+               <l>Her Scepter sway'd by such a Prince,</l>
+               <l>VVhose life doth wickedness convince,</l>
+               <l>VVhose person with his place agrees;</l>
+               <l>Such have our wishes found in thee,</l>
+               <l>Great Charls, by Heavens preserv'd, to be</l>
+               <l>Our blessing, glory and defender,</l>
+               <l>May we prove thankfull people then</l>
+               <l>To God, and pay to thee again</l>
+               <l>Th' obedience we are bound to render.</l>
+            </lg>
+            <lg n="57">
+               <pb facs="tcp:207297:17"/>
+               <head>57</head>
+               <l>Heavens grant thee holy David's zeal,</l>
+               <l>His valour and prosperity,</l>
+               <l>In Wars success and victory,</l>
+               <l>Their Oracles to thee reveal,</l>
+               <l>The wisedom of his glorious son,</l>
+               <l>And make thee Britains Salomon;</l>
+               <l>With honour crown thy sacred head;</l>
+               <l>Bless all thy great and good designs,</l>
+               <l>And make thy Coffers flowing Mines,</l>
+               <l>That all the Earth thy power may dread.</l>
+            </lg>
+            <lg n="58">
+               <head>58</head>
+               <l>May Sea and Land thy Laws obey,</l>
+               <l>When in thine own or Allies quarrel,</l>
+               <l>Thy Standards do the fields apparel,</l>
+               <l>And Armies make for Justice way:</l>
+               <l>Protect thy friends from force and wrong,</l>
+               <l>Restore what's ravish'd by the strong,</l>
+               <l>And render every one his own;</l>
+               <l>Let not thy kinsmen be oppress'd,</l>
+               <l>But see their injuries redress'd,</l>
+               <l>And pull usurping greatness down.</l>
+            </lg>
+            <lg n="59">
+               <pb facs="tcp:207297:18"/>
+               <head>59</head>
+               <l>In God's pure worship keep us free</l>
+               <l>From Innovations (Faith's defender)</l>
+               <l>Mens consciences are weak and tender,</l>
+               <l>Beleef will not constrained be:</l>
+               <l>Let Church-men keep within their spheres,</l>
+               <l>And meddle with no State affairs;</l>
+               <l>But preach as their profession binds them,</l>
+               <l>Repentance, zeal, obedience</l>
+               <l>To God and King, who can dispense</l>
+               <l>His favours to them as he finds them.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>So shall all happiness attend</l>
+               <l>Thy gracious and long-wished reign;</l>
+               <l>Heavens blessings, like a fruitfull rain,</l>
+               <l>Upon thy person shall descend;</l>
+               <l>Plenty and peace shall fill thy Lands,</l>
+               <l>Thy Subjects love thy just commands,</l>
+               <l>While thou defend'st the Church and State;</l>
+               <l>And all the neighbour World shall learn,</l>
+               <l>Their different duties to discern,</l>
+               <l>To Charls the Good and Charls the Great.</l>
+            </lg>
+            <trailer>VIVAT REX.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="dedication">
+            <pb facs="tcp:207297:18"/>
+            <head>Auxilio solius Dei.</head>
+            <p>DEvicto Sueco, Fionia recepta, haec sa<g ref="char:EOLhyphen"/>crabat Vota Regi Suo Potentissimo Caro<g ref="char:EOLhyphen"/>lo II, Magnae Britanniae Monarchae, Otto<g ref="char:EOLhyphen"/>niae Fionum.</p>
+            <closer>
+               <signed>G. L. Scotus.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
